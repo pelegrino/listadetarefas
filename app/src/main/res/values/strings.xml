@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lista de Tarefas</string>
     <string name="tarefas">Tarefas</string>
+    <string name="title">Título</string>
 </resources>
