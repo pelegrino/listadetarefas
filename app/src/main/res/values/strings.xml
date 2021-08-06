@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">Lista de Tarefas</string>
-    <string name="tarefas">Tarefas</string>
+    <string name="label_tasks">Tarefas</string>
     <string name="title">Título</string>
     <string name="label_new_task">Criar Tarefa</string>
     <string name="label_date">Data</string>
     <string name="label_hour">Hora</string>
     <string name="btn_create_task">Criar Tarefa</string>
     <string name="btn_cancel">Cancelar</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
 </resources>
