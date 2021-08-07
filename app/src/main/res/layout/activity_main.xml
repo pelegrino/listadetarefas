@@ -18,6 +18,10 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <include
+        android:id="@+id/empty_state2"
+        layout="@layout/empty_state" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_tasks"
         android:layout_width="match_parent"
@@ -25,6 +29,7 @@
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:itemCount="8"
         tools:listitem="@layout/item_task"
+        android:visibility="gone"
         android:layout_marginTop="16dp"
         app:layout_constraintBottom_toTopOf="@id/fab"
         app:layout_constraintTop_toBottomOf="@id/tv_title" />

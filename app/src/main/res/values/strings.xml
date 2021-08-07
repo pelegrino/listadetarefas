@@ -8,4 +8,7 @@
     <string name="btn_create_task">Criar Tarefa</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_task">Ops! Você não possui\n nenhuma tarefa hoje</string>
 </resources>
